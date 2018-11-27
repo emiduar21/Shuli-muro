@@ -1,0 +1,29 @@
+nav.navbar {
+  background-color: black;
+  margin: 0px;
+  color: white;
+}
+
+.muro {
+  position: absolute;
+}
+.muro img {
+  width: 1348px;
+  height: 625px;
+}
+
+.tag {
+  position: relative;
+  top: -251px;
+  left: 408px;
+}
+.tag img {
+  width: 500px;
+}
+
+.scroll {
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+/*# sourceMappingURL=style.css.map */
